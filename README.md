@@ -20,7 +20,8 @@ Goal
 The Company wants to know – 
  Variables that are significant in predicting the demand. 
  How well those variables describe the bike demand. 
-Solution Context 
+
+## Solution Context 
 For this business problem we need to understand the data. The data anomalies needs to be rectified. We need to model the demand of the bikes with the variables identified. 
 We need to prepare the data by analyzing the datasets and data dictionary. 
 Prepare the data by Data by identifying variables. 
